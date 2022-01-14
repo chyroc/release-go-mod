@@ -31,5 +31,6 @@ release-go-mod
 ![](./screenshots/re-4.png)
 
 - 如果有 `.go` 文件包含老的版本字符串，会更新这个文件（如果没有，会忽略）
+- 对 version 的文件名，变量名，位置都没有任何要求，只判定字符串包含关系
 
 ![](./screenshots/re-5.png)
