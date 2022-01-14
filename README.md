@@ -14,7 +14,7 @@ release-go-mod
 
 ## Feature
 
-- 支持炫目主包，和子包
+- 支持选择主包，和子包
 
 ![](./screenshots/re-1.png)
 
